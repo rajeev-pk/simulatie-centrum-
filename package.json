@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@symfony/webpack-encore": "^1.6.1",
+    "sass": "^1.41.0",
+    "sass-loader": "^12.1.0",
+    "webpack-notifier": "^1.13.0"
+  },
+  "scripts": {
+    "yeet": "encore dev --watch"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
